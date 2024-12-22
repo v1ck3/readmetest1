@@ -15,11 +15,11 @@
 
 ## Table of Contents 📑
 
-- [Installation](#installation)
+- [Installation](#installation-)
   - [Set Up a Virtual Environment](#set-up-a-python-virtual-environment)
   - [Install Dependencies](#install-dependencies)
   - [Install FFmpeg](#install-ffmpeg)
-- [Usage](#usage)
+- [Usage](#usage-)
   - [Running the Script](#running-the-script)
   - [Sample Output](#sample-output)
 - [Project Structure](#project-structure-)
