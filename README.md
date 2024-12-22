@@ -22,9 +22,9 @@
 - [Usage](#usage)
   - [Running the Script](#running-the-script)
   - [Sample Output](#sample-output)
-- [Project Structure](#project-structure)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Project Structure](#project-structure-)
+- [License](#license-)
+- [Acknowledgments](#acknowledgments-)
 
 ---
 
